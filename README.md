@@ -32,39 +32,17 @@ Hola soy **Matias Bussetti**, actualmente soy :computer:_Desarrollador Web Jr_ c
 
 <br>
 
-### Lenguajes de Programación
+### Mi Stack
 
-<br>
-
-#### Básicos
-
-- <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><span style="margin: 0 0 0 10px">HTML</span>
-
-- <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /><span style="margin: 0 0 0 10px">CCS</span>
-
-- <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><span style="margin: 0 0 0 10px">JavaScript</span>
-
-- <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/php/php.png" /><span style="margin: 0 0 0 10px">PHP</span>
-
-<br>
-
-#### Front End
-
-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /><span style="margin: 0 0 0 10px">React</span>
-
-<br>
-
-#### Back End
-
-- <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" /><span style="margin: 0 0 0 10px">Laravel 8 </span>
-
-<br>
-
-#### Bases de Datos
-
-- <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /><span style="margin: 0 0 0 10px">SQL</span>
-
-- <img align="left" alt="MySql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /><span style="margin: 0 0 0 10px">MySql</span>
+![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23316192.svg?&style=for-the-badge&logo=PHP&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel%20-%23F05033.svg?&style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-%230db7ed.svg?style=for-the-badge&logo=react&logoColor=white)
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 
 <br>
 <br>
