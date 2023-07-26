@@ -19,8 +19,9 @@
 
 ## Conocimientos Técnicos generales
 
-- ⚡ _Redes y Comunicaciones_
-- ⚡ _Informatica_
+⚡ _Redes y Comunicaciones_
+
+⚡ _Informatica_
 
 ---
 
@@ -32,7 +33,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23316192.svg?&style=for-the-badge&logo=PHP&logoColor=white)
 
-### Bases de Datos
+#### Bases de Datos
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
