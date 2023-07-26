@@ -6,10 +6,11 @@
 
 ### Programa Actual:
 
-📚 Tecnicatura Universitaria en Desarrollo de Aplicaciones Web
+📚 Tecnicatura Universitaria en Desarrollo de Aplicaciones Web <sub>2021 - ~2023</sub>
 <img title="UPSO" alt="UPSO" src="upso.png" width="50" height="50">
 <br>
-📚 Tecnicatura Universitaria en Programación
+<br>
+📚 Tecnicatura Universitaria en Programación <sub>2023 - ~2024</sub>
 <img title="UTN" alt="UTN" src="utn.png" width="222" height="50">
 
 ## Aquí un resumen de mis Habilidades de Blandas y Conocimientos:
