@@ -81,5 +81,5 @@
 
 <a href="mailto:me.bussettiruiz@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> **me.bussettiruiz@gmail.com**
 
-<a href="mailto:me.bussettiruiz@gmail.com">![CV PDF](https://img.shields.io/badge/CV-005420?style=for-the-badge&logo=PDF&logoColor=white)
+<a href="CV-Developer.pdf">![CV PDF](https://img.shields.io/badge/CV-005420?style=for-the-badge&logo=PDF&logoColor=white)
 </a>
