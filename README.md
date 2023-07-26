@@ -1,13 +1,16 @@
-# Bienvenido mi GitHub
+# Lo que necesitas saber
 
-Hola soy **Matias Bussetti**, actualmente soy :computer:_Desarrollador Web Jr_ con experiencia laboral gracias a las pasantias realizadas en el 7mo año de la :school_satchel: Escuela Técnica.
+### Estudios:
 
-- Acualmente estoy en la Busqueda de Trabajo :mag:
-- Mis hobbies son:
-  - Andar en Moto :bike:
-  - Sacar Fotos :camera:
-  - Disfutar el paisaje :sunrise_over_mountains: y las estrellas :milky_way:
-- Mi cliente más importante es <img alt="Visual Studio Code" style="border-radius: 50%" width="26px" src="https://gabibianchifitcoach.com.ar/img/gabifit-logo.jpg" /> <a href="https://gabibianchifitcoach.com.ar/"><span style="color: #ee22cc">Gabi Bianchi Fit Coach</span></a>
+🎓 Técnico en Informatica Personal y Profesional (2012-2019)
+
+### Programa Actual:
+
+📚 (UTN) Tecnicatura Universitaria en Programación
+
+📚 (UPSO) Tecnicatura Universitaria en Desarrollo de Aplicaciones Web
+
+![UTN](upso.png)
 
 <br>
 
@@ -34,8 +37,7 @@ Hola soy **Matias Bussetti**, actualmente soy :computer:_Desarrollador Web Jr_ c
 
 ### Mi Stack
 
-![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23316192.svg?&style=for-the-badge&logo=PHP&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
