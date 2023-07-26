@@ -77,4 +77,5 @@
 
 ### Contacto:
 
-<a href="https://www.linkedin.com/in/matias-ezequiel-bussetti-82a9531a2/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="mailto:me.bussettiruiz@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/matias-ezequiel-bussetti-82a9531a2/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:me.bussettiruiz@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> me.bussettiruiz@gmail.com
