@@ -2,7 +2,7 @@
 
 ### Estudios:
 
-🎓 Técnico en Informatica Personal y Profesional (2012-2019)
+🎓 Técnico en Informatica Personal y Profesional <sub>2012-2019</sub>
 
 ### Programa Actual:
 
