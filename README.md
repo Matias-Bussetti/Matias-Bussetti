@@ -10,8 +10,8 @@
 
 📚 (UPSO) Tecnicatura Universitaria en Desarrollo de Aplicaciones Web
 
-![UPSO](upso.png)
-![UTN](utn.png)
+![UPSO](upso.png=50x50)
+![UTN](utn.png=222x50)
 
 <br>
 
