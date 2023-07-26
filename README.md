@@ -14,6 +14,7 @@
 ![UTN](utn.png=222x50)
 <img title="UTN" alt="UTN" src="utn.png" width="222" height="50">
 <br>
+<img title="UPSO" alt="UPSO" src="upso.png" width="50" height="50">
 
 ## Aquí un resumen de mis Habilidades de Blandas y Conocimientos:
 
