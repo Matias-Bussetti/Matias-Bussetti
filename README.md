@@ -6,15 +6,9 @@
 
 ### Programa Actual:
 
-📚 (UTN) Tecnicatura Universitaria en Programación
-
-📚 (UPSO) Tecnicatura Universitaria en Desarrollo de Aplicaciones Web
-
-![UPSO](upso.png=50x50)
-![UTN](utn.png=222x50)
-<img title="UTN" alt="UTN" src="utn.png" width="222" height="50">
+📚 <img title="UTN" alt="UTN" src="utn.png" width="222" height="50"> Tecnicatura Universitaria en Desarrollo de Aplicaciones Web
 <br>
-<img title="UPSO" alt="UPSO" src="upso.png" width="50" height="50">
+📚 <img title="UPSO" alt="UPSO" src="upso.png" width="50" height="50"> Tecnicatura Universitaria en Programación
 
 ## Aquí un resumen de mis Habilidades de Blandas y Conocimientos:
 
