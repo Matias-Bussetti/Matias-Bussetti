@@ -10,9 +10,7 @@
 
 📚 (UPSO) Tecnicatura Universitaria en Desarrollo de Aplicaciones Web
 
-![UTN](upso.png)
-
-<br>
+<img title="UPSO" alt="UPSO" src="upso.png">
 
 ## Aquí un resumen de mis Habilidades de Blandas y Conocimientos:
 
