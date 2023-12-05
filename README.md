@@ -75,6 +75,10 @@
 
 ---
 
+![](https://github-readme-stats.vercel.app/api?username=Matias-Bussetti&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Matias-Bussetti&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Matias-Bussetti&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 ### Contacto:
 
 <a href="https://www.linkedin.com/in/matias-ezequiel-bussetti-82a9531a2/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
