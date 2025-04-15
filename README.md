@@ -8,11 +8,11 @@ Busco una posición donde pueda aplicar mis habilidades en desarrollo full-stack
 
 ### Logros Académicos
 
-| Título                                                      | Tiempo                 | Institución                                                                 |
-| ----------------------------------------------------------- | ---------------------- | --------------------------------------------------------------------------- |
-| Tecnicatura Universitaria en Programación                   | <sub>2023 - 2024</sub> | <img title="UTN FRBB" alt="UTN FRBB" src="utn.png" width="222" height="50"> |
-| Tecnicatura Universitaria en Desarrollo de Aplicaciones Web | <sub>2021 - 2023</sub> | <img title="UPSO" alt="UPSO" src="upso.png" width="50" height="50">         |
-| Técnico en Informatica Personal y Profesional               | <sub>2012 - 2019</sub> | <img title="EEST2" alt="EEST2" src="eest2.png" width="37" height="48">      |
+| Título                                                      | Tiempo                 | Institución                                                                                      |
+| ----------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------ |
+| Tecnicatura Universitaria en Programación                   | <sub>2023 - 2024</sub> | <img style="margin:auto;" title="UTN FRBB" alt="UTN FRBB" src="utn.png" width="222" height="50"> |
+| Tecnicatura Universitaria en Desarrollo de Aplicaciones Web | <sub>2021 - 2023</sub> | <img style="margin:auto;" title="UPSO" alt="UPSO" src="upso.png" width="50" height="50">         |
+| Técnico en Informatica Personal y Profesional               | <sub>2012 - 2019</sub> | <img style="margin:auto;" title="EEST2" alt="EEST2" src="eest2.png" width="37" height="48">      |
 
 ---
 
