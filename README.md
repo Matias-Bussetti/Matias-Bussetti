@@ -1,32 +1,46 @@
-# Lo que necesitas saber
+# Hi, I'm Matias Bussetti, _here is what you need to know_ 🌞
 
-### Mi busqueda actual
+<a href="https://www.linkedin.com/in/matias-ezequiel-bussetti-82a9531a2/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="mailto:me.bussettiruiz@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
-Busco una posición donde pueda aplicar mis habilidades en desarrollo full-stack, con experiencia en React, PHP, APIs REST y bases de datos, para contribuir al desarrollo de soluciones innovadoras y eficientes, enfocado en la mejora continua, el aprendizaje de nuevas tecnologías y el trabajo en conjunto.
+I'm a **Full Stack Developer** base in the province of Buenos Aires, Argentina. I currently working in _Bahia Domotica_ as such developer. I've **+3 years of experience** working and developing solutions alone and managing assigned tasks. I´ve my own clients, which they're satisfied with my work. I currently **studding a bachelors degree in computer science** in the university Siglo 21, in this university you can manage your own time and pase which is helpful when yo are working.
+
+I also have _3 technical degrees_: _Personal and Professional Computer Technicianal_ (High-School), _Technical Degree in Web Application Development_ (UPSO university), _University Technical Degree in Programming_ (UTN university).
+
+## 💼 Professional Experience
+
+### **Full Stack Developer**
+
+**Bahía Domótica, Bahía Blanca, Buenos Aires (Remote)**  
+_Sep 2023 – Present_
+
+- Develop and implement new user interfaces for the home automation system control application, focused on improving end-user experience.
+- Design and maintain full stack features using **PHP** for backend and **React.js** for frontend.
+- Integrate APIs and services to enable communication between the application and home automation devices.
+- Maintain clean, scalable architecture with a strong focus on code quality and maintainability.
+- Optimize application performance and usability in critical system interfaces.
+
+### **Freelance Full Stack Developer**
+
+_2019 – Present_
+
+- Develop and deliver custom web applications for clients, focused on improving operational efficiency and reducing human error.
+- **GabiBianchiFitCoach**: Designed and implemented a web application that provides improved client management and tracking, streamlining workflows and minimizing manual errors.
+- 🔗 https://www.gabibianchifitcoach.com.ar
+- Work closely with clients to gather requirements, propose technical solutions, and deliver scalable and maintainable applications.
+- Handle full project lifecycle, from initial analysis and development to deployment and maintenance.
+
+## 🧮 Academic Achievements
+
+| Degree                                              | Start Year | Graduation Year | Institution                                 | Institution Logo                                                                                     |
+| --------------------------------------------------- | ---------- | --------------- | ------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| Computer Science Degree                             | 2025       | On going...     | Universidad Siglo 21                        | <img style="margin:auto;" title="UTN FRBB" alt="UTN FRBB" src="siglo21.png" width="222" height="50"> |
+| University Technical in Programming                 | 2023       | 2024            | Universidad Tecnológica Nacional            | <img style="margin:auto;" title="UTN FRBB" alt="UTN FRBB" src="utn.png" width="222" height="50">     |
+| University Technical in Web Application Development | 2021       | 2023            | Universidad Provincial del Sudoeste         | <img style="margin:auto;" title="UPSO" alt="UPSO" src="upso.png" width="50" height="50">             |
+| Technical in Web Application Development            | 2012       | 2019            | Escuela de Educación Secundaria Técnica N°2 | <img style="margin:auto;" title="EEST2" alt="EEST2" src="eest2.png" width="37" height="48">          |
 
 ---
 
-### Logros Académicos
-
-| Título                                                      | Inicio | Graduación | Institución                                                                                      |
-| ----------------------------------------------------------- | ------ | ---------- | ------------------------------------------------------------------------------------------------ |
-| Tecnicatura Universitaria en Programación                   | 2023   | 2024       | <img style="margin:auto;" title="UTN FRBB" alt="UTN FRBB" src="utn.png" width="222" height="50"> |
-| Tecnicatura Universitaria en Desarrollo de Aplicaciones Web | 2021   | 2023       | <img style="margin:auto;" title="UPSO" alt="UPSO" src="upso.png" width="50" height="50">         |
-| Técnico en Informatica Personal y Profesional               | 2012   | 2019       | <img style="margin:auto;" title="EEST2" alt="EEST2" src="eest2.png" width="37" height="48">      |
-
----
-
-## Conocimientos Técnicos generales
-
-⚡ _Programación_
-
-⚡ _Redes y Comunicaciones_
-
-⚡ _Informatica_
-
-## Programación: Conocimientos y Habilidades
-
-#### Current Stack
+## ⛳ My Knowledge
 
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -38,36 +52,15 @@ Busco una posición donde pueda aplicar mis habilidades en desarrollo full-stack
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-#### Conocidos - Utilizados
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-#### Otras Herramientas
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-#### Sistemas Operativos
-
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Windows](https://img.shields.io/badge/Wsl2-0078D6?style=for-the-badge&logo=wsl2&logoColor=white)
-
 ---
 
-## Contacto:
+## 📫 Get in Touch
 
 <a href="https://www.linkedin.com/in/matias-ezequiel-bussetti-82a9531a2/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-<a href="mailto:me.bussettiruiz@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> **me.bussettiruiz@gmail.com**
+<a href="mailto:me.bussettiruiz@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-me.bussettiruiz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
-<a href="CV-Developer.pdf">![CV PDF](https://img.shields.io/badge/DESCARGAR%20CV-005420?style=for-the-badge&logo=PDF&logoColor=white)
+<a href="CV-Developer.pdf">![CV PDF](https://img.shields.io/badge/DOWNLOAD%20CV-005420?style=for-the-badge&logo=PDF&logoColor=white)
 </a>
 
 ---
