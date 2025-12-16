@@ -2,9 +2,11 @@
 
 <a href="https://www.linkedin.com/in/matias-ezequiel-bussetti-82a9531a2/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="mailto:me.bussettiruiz@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
-I'm a **Full Stack Developer** base in the province of Buenos Aires, Argentina. I currently working in _Bahia Domotica_ as such developer. I've **+3 years of experience** working and developing solutions alone and managing assigned tasks. I´ve my own clients, which they're satisfied with my work. I currently **studding a bachelors degree in computer science** in the university Siglo 21, in this university you can manage your own time and pase which is helpful when yo are working.
+I'm a **Full Stack Developer** based in the province of Buenos Aires, Argentina. I'm currently working in _Bahia Domotica_ in a **Full Stack Developer role**. I have **3+ years of experience** working and developing solutions independently and managing assigned tasks. I also work with my own clients, who have been satisfied with the results delivered.
 
-I also have _3 technical degrees_: _Personal and Professional Computer Technicianal_ (High-School), _Technical Degree in Web Application Development_ (UPSO university), _University Technical Degree in Programming_ (UTN university).
+I'm currently **studying a bachelor's degree in computer science** at University Siglo 21. I also hold three _technical degrees_: _Personal and Professional IT Technician_ (High-School), _Technical Degree in Web Application Development_ (UPSO university), _University Technical Degree in Programming_ (UTN university).
+
+---
 
 ## 💼 Professional Experience
 
@@ -21,22 +23,12 @@ _Sep 2023 – Present_
 
 ### **Freelance Full Stack Developer**
 
-_2019 – Present_
+_2020 – Present_
 
-- Develop and deliver custom web applications for clients, focused on improving operational efficiency and reducing human error.
-- **GabiBianchiFitCoach**: Designed and implemented a web application that provides improved client management and tracking, streamlining workflows and minimizing manual errors.
+- **GabiBianchiFitCoach**: Designed and implemented a web application that provides improved client management for minimizing manual errors.
 - 🔗 https://www.gabibianchifitcoach.com.ar
-- Work closely with clients to gather requirements, propose technical solutions, and deliver scalable and maintainable applications.
+- Work with clients to gather requirements, propose technical solutions, and deliver maintainable applications.
 - Handle full project lifecycle, from initial analysis and development to deployment and maintenance.
-
-## 🧮 Academic Achievements
-
-| Degree                                              | Start Year | Graduation Year | Institution                                 | Institution Logo                                                                                     |
-| --------------------------------------------------- | ---------- | --------------- | ------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| Computer Science Degree                             | 2025       | On going...     | Universidad Siglo 21                        | <img style="margin:auto;" title="UTN FRBB" alt="UTN FRBB" src="siglo21.png" width="222" height="50"> |
-| University Technical in Programming                 | 2023       | 2024            | Universidad Tecnológica Nacional            | <img style="margin:auto;" title="UTN FRBB" alt="UTN FRBB" src="utn.png" width="222" height="50">     |
-| University Technical in Web Application Development | 2021       | 2023            | Universidad Provincial del Sudoeste         | <img style="margin:auto;" title="UPSO" alt="UPSO" src="upso.png" width="50" height="50">             |
-| Technical in Web Application Development            | 2012       | 2019            | Escuela de Educación Secundaria Técnica N°2 | <img style="margin:auto;" title="EEST2" alt="EEST2" src="eest2.png" width="37" height="48">          |
 
 ---
 
@@ -54,6 +46,17 @@ _2019 – Present_
 
 ---
 
+## 🧮 Academic Achievements
+
+| Degree                                              | Start Year | Graduation Year | Institution                                 | Institution Logo                                                                                     |
+| --------------------------------------------------- | ---------- | --------------- | ------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Computer Science Degree**                         | 2025       | Ongoing         | Universidad Siglo 21                        | <img style="margin:auto;" title="UTN FRBB" alt="UTN FRBB" src="siglo21.png" width="222" height="50"> |
+| University Technical in Programming                 | 2023       | 2024            | Universidad Tecnológica Nacional            | <img style="margin:auto;" title="UTN FRBB" alt="UTN FRBB" src="utn.png" width="222" height="50">     |
+| University Technical in Web Application Development | 2021       | 2023            | Universidad Provincial del Sudoeste         | <img style="margin:auto;" title="UPSO" alt="UPSO" src="upso.png" width="50" height="50">             |
+| Technical in Web Application Development            | 2012       | 2019            | Escuela de Educación Secundaria Técnica N°2 | <img style="margin:auto;" title="EEST2" alt="EEST2" src="eest2.png" width="37" height="48">          |
+
+---
+
 ## 📫 Get in Touch
 
 <a href="https://www.linkedin.com/in/matias-ezequiel-bussetti-82a9531a2/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
@@ -64,6 +67,8 @@ _2019 – Present_
 </a>
 
 ---
+
+## ✨ Github Stats
 
 <br/>
 
